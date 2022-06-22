@@ -1,0 +1,3 @@
+Alamat: this
+Panjang: 55
+Luas :66
